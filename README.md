@@ -50,8 +50,8 @@ Check out my pinned repos to see what I’ve been working on!
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/devon-li-19b7822b2)
 [![Email](https://img.shields.io/badge/Email-devonli8314@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devonli8314@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/devon-li-19b7822b2)
 
 ---
 
